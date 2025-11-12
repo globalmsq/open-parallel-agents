@@ -1,5 +1,3 @@
-**Updated: 2025-11-12 18:00:00 GMT+9**
-
 # Open Parallel Agents
 
 ## Introduction
